@@ -15,5 +15,4 @@ function dummt() {
   } catch (e) {
     console.log("don't remove me: ", e);
   }
-  console.log("i will be gone");
 }
