@@ -5,10 +5,10 @@ if (4 == 5) {} else {}
 
 function dummt() {
   if (5 === -0) {
-console.log('a');
+    console.log('a');
   }
   if (a == b) {
-    
+    console.log('b');
   }
   try {
     1 + 1;
