@@ -4,11 +4,11 @@ if (3 == 3) {} else {}
 if (4 == 5) {} else {}
 
 function dummt() {
-  if (5 === 0) {
-    
+  if (5 === -0) {
+    console.log('a');
   }
   if (a == b) {
-    
+    console.log('b');
   }
   try {
     1 + 1;
