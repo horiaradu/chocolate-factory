@@ -1,13 +1,13 @@
-if (1 == 1) {}
-if (2 == 123) {}
-if (3 == 3) {} else {}
-if (4 == 5) {} else {}
+if (1 === 1) {}
+if (2 === 123) {}
+if (3 === 3) {} else {}
+if (4 === 5) {} else {}
 
 function dummt() {
   if (5 === 0) {
     console.log('a');
   }
-  if (a == b) {
+  if (a === b) {
     console.log('b');
   }
   try {
