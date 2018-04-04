@@ -8,7 +8,7 @@ function dummt() {
     
   }
   if (a == b) {
-    console.log('b');
+    
   }
   try {
     1 + 1;
