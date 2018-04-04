@@ -7,7 +7,6 @@ function dummt() {
   if (5 === -0) {
   }
   if (a == b) {
-    console.log('b');
   }
   try {
     1 + 1;
