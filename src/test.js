@@ -10,7 +10,6 @@ function dummt() {
   }
   try {
     1 + 1;
-    console.log('foo');
   } catch (e) {
     console.log("don't remove me: ", e);
   }
