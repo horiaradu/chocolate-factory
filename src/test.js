@@ -5,7 +5,7 @@ if (4 == 5) {} else {}
 
 function dummt() {
   if (5 == 0) {
-    console.log('bar');
+    
   }
   if (a == b) {
     console.log('foo');
